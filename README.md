@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Niaz Ahmed</h1>
-<h3 align="center">A passionate beginner web developer</h3>
+### Hi there 👋, my name is Niaz Ahmed
+#### I am web Designer and developer.
+I am Sujon Ahmed. A CSE student having some knowledges in Web Design and Developement Technologies and Interested in Desktop/Mobile Software Development. Currently not employed, developing skills. Looking for an opportunity in an organization, who treats their employees with respect.
 
-- 🔭 I’m currently working on **programming Hero**
+Skills: CSS , html, bootstrap, 
 
-- 🌱 I’m currently learning **Html 5 CSS 3**
+- 🔭 I’m currently working on programming hero. 
+- 🌱 I’m currently learning html 5 ,CSS3, Bootstrap  
+- 👯 I’m looking to collaborate on open source project  
+- 📫 How to reach me: @niazfp 
 
-- 👨‍💻 All of my projects are available at [https://www.facebook.com/Niazfp/](https://www.facebook.com/Niazfp/)
 
-- 💬 Ask me about **Web Design / Web Development**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhniaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/niazfp/)  
 
-- 📫 How to reach me **niaz7518@gmail.com**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-- ⚡ Fun fact **I think i am lazy...**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhniaz)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/www.facebook.com/niazfp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/niazfp/" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhniaz&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mhniaz)  
 
+![Profile views](https://gpvc.arturio.dev/mhniaz)  
